@@ -1,0 +1,38 @@
+{
+    "name": "us-postal",
+    "version": "0.0.1",
+    "main":"./us-postal.js",
+    "description": "Tools for working with US postal addresses.",
+    "keywords": [
+        "us",
+        "postal",
+        "addresses",
+        "usa",
+        "usps",
+        "mail",
+        "physical",
+        "location",
+        "mailing",
+        "validation"
+    ],
+    "author": {
+        "name": "Jeffrey Mealo",
+        "email": "jeffreymealo@gmail.com",
+        "web": "http://www.jeffreymealo.com"
+    },
+    "license": {
+        "type": "MIT"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/jmealo/node-us-postal.git"
+    },
+    "directories": {
+        "examples": "examples",
+        "test": "test",
+        "data": "data"
+    },
+    "engines": {
+        "node": "*"
+    }
+}
